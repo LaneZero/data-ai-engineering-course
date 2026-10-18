@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="220" />
+<img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="420" />
 
-# جزوه فارسی مهندسی داده و مهندسی هوش مصنوعی
+# جزوه فارسی مهندسی داده و هوش مصنوعی
 
 **Data Engineering & AI Engineering | Persian Study Notes**
 
