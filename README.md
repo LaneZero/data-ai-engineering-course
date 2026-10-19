@@ -2,29 +2,30 @@
 
 <img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="620" />
 
-# جزوه فارسی مهندسی داده و هوش مصنوعی
+# جزوه فارسی مهندسی داده و مهندسی هوش مصنوعی
 
 **Data Engineering & AI Engineering | Persian Study Notes**
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v0.1.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/01-introduction.md)
-![Last Updated](https://img.shields.io/badge/Updated-2026--10--18-0f766e?style=for-the-badge&logo=github&logoColor=white)
+[![Notes Version](https://img.shields.io/badge/Notes-v0.2.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/01-introduction.md)
+![Last Updated](https://img.shields.io/badge/Updated-2026--10--19-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-01%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-02%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 شروع مطالعه**](sessions/01-introduction.md) · [**📄 PDF جلسه اول**](Files/Session001.pdf) · [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📄 PDF جلسه دوم**](Files/Session002.pdf) · [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی محتوایی: ۱۸ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.1.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۱۹ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.2.0</sub>
 
 </div>
+
 ---
 
 <div dir="rtl" align="right">
 
 ## درباره این مخزن
 
-این مخزن مجموعه‌ای از **یادداشت‌های فارسی و غیررسمی** دوره [مهندسی داده و  هوش مصنوعی](https://mostafaghadimi.github.io/data-course/) به میزبانی **مصطفی قدیمی** است. جزوه‌ها بر اساس توضیحات جلسات تدوین می‌شوند و هدفشان این است که مطالب کلاس برای مطالعه، تمرین و مرور در آینده، منظم و قابل‌فهم باقی بمانند.
+این مخزن مجموعه‌ای از **یادداشت‌های فارسی و غیررسمی** دوره [مهندسی داده و مهندسی هوش مصنوعی](https://mostafaghadimi.github.io/data-course/) به میزبانی **مصطفی قدیمی** است. جزوه‌ها بر اساس توضیحات جلسات تدوین می‌شوند و هدفشان این است که مطالب کلاس برای مطالعه، تمرین و مرور در آینده، منظم و قابل‌فهم باقی بمانند.
 
 در تهیه هر جزوه تلاش می‌شود:
 
@@ -43,13 +44,13 @@
 | جلسه | موضوع | تاریخ | مطالعه آنلاین | نسخه PDF |
 |:---:|---|:---:|:---:|:---:|
 | ۰۱ | معرفی دوره، نقش‌های داده و AI، چرخه عمر مهندسی داده و نقشه راه | ۲۶ مهر ۱۴۰۵ | [مطالعه جلسه اول](sessions/01-introduction.md) | [دریافت PDF](Files/Session001.pdf) |
-| ۰۲ | - | - | - | - |
+| ۰۲ | تصمیم‌گیری داده‌محور در کسب‌وکار؛ از متریک‌ها تا ایجنت‌ها (محمدمهدی شکری) | ۲۶ مهر ۱۴۰۵ | [مطالعه جلسه دوم](sessions/02-data-driven-decisions.md) | [دریافت PDF](Files/Session002.pdf) |
 | ۰۳ | - | - | - | - |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۰۱، ۱۸ اکتبر ۲۰۲۶.  
-**نسخه مجموعه جزوه‌ها:** `v0.1.0` (نسخه آغازین؛ با انتشار تغییرات مهم افزایش می‌یابد).
+**آخرین جلسه تدوین‌شده:** جلسه ۰۲، ۲۶ مهر ۱۴۰۵ (۱۸ اکتبر ۲۰۲۶).  
+**نسخه مجموعه جزوه‌ها:** `v0.2.0` (انتشار جزوه جلسه دوم).
 
-> لینک PDF جلسه اول پس از بارگذاری فایل `Files/Session001.pdf` فعال خواهد بود. تاریخ‌ها و عنوان‌های جلسات آینده پس از برگزاری تکمیل می‌شوند؛ تعداد جلسات به ردیف‌های این جدول محدود نیست.
+> فایل‌های PDF پس از ثبت در مسیرهای `Files/Session001.pdf` و `Files/Session002.pdf` در GitHub قابل دریافت خواهند بود. تاریخ‌ها و عنوان‌های جلسات آینده پس از برگزاری تکمیل می‌شوند؛ تعداد جلسات به ردیف‌های این جدول محدود نیست.
 
 ## مسیرهای آموزشی
 
@@ -69,6 +70,14 @@
 ### مهندسی هوش مصنوعی (AI Engineering)
 
 آشنایی با ساخت محصولات مبتنی بر مدل‌های موجود و موضوعاتی مانند AI Agents، ابزارها، Guardrails، ارزیابی خروجی، هزینه و مانیتورینگ. **برنامه تفصیلی این مسیر در جلسه اول هنوز نهایی نشده بود** و به‌تدریج مطابق جلسات برگزارشده تکمیل می‌شود.
+
+## جلسه دوم در یک نگاه
+
+در جلسه دوم، **محمدمهدی شکری** درباره نقش داده در تصمیم‌گیری‌های کسب‌وکار صحبت می‌کند. مثال‌های واقعی از محصولات «موری» و «ادنا» نشان می‌دهند که بالا رفتن تعداد کاربران یا پیام‌ها لزوماً به معنی رشد ارزش کسب‌وکار نیست.
+
+مباحث اصلی شامل انتخاب متریک مناسب، قیف تبدیل، نگهداشت کاربران، معیارهای سلامت محصول، اقتصاد جذب مشتری، خطاهای تفسیر داده و جایگاه ایجنت‌های هوش مصنوعی است.
+
+[مطالعه جزوه جلسه دوم](sessions/02-data-driven-decisions.md) · [دریافت PDF جلسه دوم](Files/Session002.pdf)
 
 ## روش استفاده از جزوه‌ها
 
@@ -91,9 +100,11 @@
 ├── README.md
 ├── CONTRIBUTING.md
 ├── sessions/
-│   └── 01-introduction.md
+│   ├── 01-introduction.md
+│   └── 02-data-driven-decisions.md
 ├── Files/
-│   └── Session001.pdf
+│   ├── Session001.pdf
+│   └── Session002.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
