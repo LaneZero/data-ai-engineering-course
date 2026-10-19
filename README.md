@@ -2,20 +2,20 @@
 
 <img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="620" />
 
-# جزوه فارسی مهندسی داده و هوش مصنوعی
+# جزوه فارسی مهندسی داده و مهندسی هوش مصنوعی
 
 **Data Engineering & AI Engineering | Persian Study Notes**
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v0.2.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/01-introduction.md)
+[![Notes Version](https://img.shields.io/badge/Notes-v0.3.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/01-introduction.md)
 ![Last Updated](https://img.shields.io/badge/Updated-2026--10--19-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-02%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-03%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📄 PDF جلسه دوم**](Files/Session002.pdf) · [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📄 PDF جلسه سوم**](Files/Session003.pdf) · [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۱۹ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.2.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۱۹ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.3.0</sub>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## درباره این مخزن
 
-این مخزن مجموعه‌ای از **یادداشت‌های فارسی و غیررسمی** دوره [مهندسی داده و هوش مصنوعی](https://mostafaghadimi.github.io/data-course/) به میزبانی **مصطفی قدیمی** است. جزوه‌ها بر اساس توضیحات جلسات تدوین می‌شوند و هدفشان این است که مطالب کلاس برای مطالعه، تمرین و مرور در آینده، منظم و قابل‌فهم باقی بمانند.
+این مخزن مجموعه‌ای از **یادداشت‌های فارسی و غیررسمی** دوره [مهندسی داده و مهندسی هوش مصنوعی](https://mostafaghadimi.github.io/data-course/) به میزبانی **مصطفی قدیمی** است. جزوه‌ها بر اساس توضیحات جلسات تدوین می‌شوند و هدفشان این است که مطالب کلاس برای مطالعه، تمرین و مرور در آینده، منظم و قابل‌فهم باقی بمانند.
 
 در تهیه هر جزوه تلاش می‌شود:
 
@@ -45,12 +45,12 @@
 |:---:|---|:---:|:---:|:---:|
 | ۰۱ | معرفی دوره، نقش‌های داده و AI، چرخه عمر مهندسی داده و نقشه راه | ۲۶ مهر ۱۴۰۵ | [مطالعه جلسه اول](sessions/01-introduction.md) | [دریافت PDF](Files/Session001.pdf) |
 | ۰۲ | تصمیم‌گیری داده‌محور در کسب‌وکار؛ از متریک‌ها تا ایجنت‌ها (محمدمهدی شکری) | ۲۶ مهر ۱۴۰۵ | [مطالعه جلسه دوم](sessions/02-data-driven-decisions.md) | [دریافت PDF](Files/Session002.pdf) |
-| ۰۳ | - | - | - | - |
+| ۰۳ | پیش‌نیازهای مهندسی داده (۱): گیت، لینوکس و مفاهیم پایه شبکه (احمد کریمی) | - | [مطالعه جلسه سوم](sessions/03-git-linux-network-fundamentals.md) | [دریافت PDF](Files/Session003.pdf) |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۰۲، ۲۶ مهر ۱۴۰۵ (۱۸ اکتبر ۲۰۲۶).  
-**نسخه مجموعه جزوه‌ها:** `v0.2.0` (انتشار جزوه جلسه دوم).
+**آخرین جلسه تدوین‌شده:** جلسه ۰۳، پیش‌نیازهای مهندسی داده (۱)، مدرس: احمد کریمی (تاریخ برگزاری هنوز اعلام نشده است).  
+**نسخه مجموعه جزوه‌ها:** `v0.3.0` (افزودن جزوه جلسه سوم).
 
-> فایل‌های PDF پس از ثبت در مسیرهای `Files/Session001.pdf` و `Files/Session002.pdf` در GitHub قابل دریافت خواهند بود. تاریخ‌ها و عنوان‌های جلسات آینده پس از برگزاری تکمیل می‌شوند؛ تعداد جلسات به ردیف‌های این جدول محدود نیست.
+> فایل‌های PDF پس از ثبت در مسیرهای `Files/Session001.pdf`، `Files/Session002.pdf` و `Files/Session003.pdf` در GitHub قابل دریافت خواهند بود. تاریخ‌ها و عنوان‌های جلسات آینده پس از برگزاری تکمیل می‌شوند؛ تعداد جلسات به ردیف‌های این جدول محدود نیست.
 
 ## مسیرهای آموزشی
 
@@ -67,7 +67,7 @@
 - Data Modeling، Orchestration و Data Quality
 - Observability و مفاهیم زیرساختی مرتبط
 
-### هوش مصنوعی (AI Engineering)
+### مهندسی هوش مصنوعی (AI Engineering)
 
 آشنایی با ساخت محصولات مبتنی بر مدل‌های موجود و موضوعاتی مانند AI Agents، ابزارها، Guardrails، ارزیابی خروجی، هزینه و مانیتورینگ. **برنامه تفصیلی این مسیر در جلسه اول هنوز نهایی نشده بود** و به‌تدریج مطابق جلسات برگزارشده تکمیل می‌شود.
 
@@ -78,6 +78,14 @@
 مباحث اصلی شامل انتخاب متریک مناسب، قیف تبدیل، نگهداشت کاربران، معیارهای سلامت محصول، اقتصاد جذب مشتری، خطاهای تفسیر داده و جایگاه ایجنت‌های هوش مصنوعی است.
 
 [مطالعه جزوه جلسه دوم](sessions/02-data-driven-decisions.md) · [دریافت PDF جلسه دوم](Files/Session002.pdf)
+
+## جلسه سوم در یک نگاه
+
+در جلسه سوم، **احمد کریمی** مبانی کاربردی Linux را برای شروع مسیر مهندسی داده معرفی می‌کند. مباحث شامل تفاوت Kernel و Distribution، ساختار فایل‌ها و مسیرهای مهم لینوکس، دستورات Terminal، جابه‌جایی و ویرایش فایل‌ها، Pipe و Redirection، میان‌برها و تاریخچه Shell، دسترسی‌های پایه و آشنایی مقدماتی با شبکه است.
+
+**نکته درباره محدوده جلسه:** Git به‌صورت مقدماتی معرفی شد، اما آموزش عملی آن و ادامه مباحث شبکه به جلسات بعد موکول شده‌اند.
+
+[مطالعه جزوه جلسه سوم](sessions/03-git-linux-network-fundamentals.md) · [دریافت PDF جلسه سوم](Files/Session003.pdf)
 
 ## روش استفاده از جزوه‌ها
 
@@ -101,10 +109,12 @@
 ├── CONTRIBUTING.md
 ├── sessions/
 │   ├── 01-introduction.md
-│   └── 02-data-driven-decisions.md
+│   ├── 02-data-driven-decisions.md
+│   └── 03-git-linux-network-fundamentals.md
 ├── Files/
 │   ├── Session001.pdf
-│   └── Session002.pdf
+│   ├── Session002.pdf
+│   └── Session003.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
@@ -112,7 +122,7 @@
 
 <div dir="rtl" align="right">
 
-پوشه `sessions` مخصوص نسخه‌های Markdown، پوشه `Files` مخصوص PDF جلسات، و پوشه `assets` برای تصاویر و نمودارهای موردنیاز است. فایل‌های جدید با همین الگو اضافه می‌شوند. تصویر لوگوی بالای صفحه از مسیر `assets/images/Databurst-Logo-01.jpg` خوانده می‌شود. نشان‌های بالای صفحه به‌صورت دستی تنظیم شده‌اند؛ با انتشار جلسه جدید، نسخه، تاریخ و تعداد جلسات را به‌روزرسانی کنید.
+پوشه `sessions` مخصوص نسخه‌های Markdown، پوشه `Files` مخصوص PDF جلسات، و پوشه `assets` برای تصاویر و نمودارهای موردنیاز است. فایل‌های جدید با همین الگو اضافه می‌شوند. تصویر لوگوی بالای صفحه از مسیر `assets/images/Databurst-Logo-01.jpg` خوانده می‌شود. نشان‌های بالای صفحه به‌صورت دستی تنظیم شده‌اند؛ با انتشار جلسه جدید، نسخه، تاریخ و تعداد جلسات را به‌روزرسانی کنید. تاریخ برگزاری جلسه سوم پس از تأیید در جدول تکمیل خواهد شد.
 
 ## مشارکت و گزارش خطا
 
