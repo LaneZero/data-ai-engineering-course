@@ -8,16 +8,16 @@
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v0.4.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/04-network-docker-database.md)
-![Last Updated](https://img.shields.io/badge/Updated-2026--10--21-0f766e?style=for-the-badge&logo=github&logoColor=white)
+[![Notes Version](https://img.shields.io/badge/Notes-v0.5.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/05-data-engineering-dictionary.md)
+![Last Updated](https://img.shields.io/badge/Updated-2026--10--25-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-04%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-05%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📄 PDF جلسه چهارم**](Files/Session004.pdf)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📄 PDF جلسه پنجم**](Files/Session005.pdf)
 
 [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۲۱ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.4.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۲۵ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.5.0</sub>
 
 </div>
 
@@ -49,10 +49,11 @@
 | ۰۲ | تصمیم‌گیری داده‌محور در کسب‌وکار؛ از متریک‌ها تا ایجنت‌ها (محمدمهدی شکری) | ۲۶ مهر ۱۴۰۵ | [مطالعه جلسه دوم](sessions/02-data-driven-decisions.md) | [دریافت PDF](Files/Session002.pdf) |
 | ۰۳ | پیش‌نیازهای مهندسی داده (۱): گیت، لینوکس و مفاهیم پایه شبکه (احمد کریمی) | ۲۷ مهر ۱۴۰۵ | [مطالعه جلسه سوم](sessions/03-git-linux-network-fundamentals.md) | [دریافت PDF](Files/Session003.pdf) |
 | ۰۴ | پیش‌نیازهای مهندسی داده (۲): ادامه گیت و شبکه، داکر و اتصال به دیتابیس (احمد کریمی) | ۲۸ مهر ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه چهارم](sessions/04-network-docker-database.md) | [دریافت PDF](Files/Session004.pdf) |
+| ۰۵ | دیکشنری مهندسی داده (نیوشا بقایی) | ۲ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه پنجم](sessions/05-data-engineering-dictionary.md) | [دریافت PDF](Files/Session005.pdf) |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۰۴، پیش‌نیازهای مهندسی داده (۲)، مدرس: احمد کریمی، سه‌شنبه ۲۸ مهر ۱۴۰۵.
+**آخرین جلسه تدوین‌شده:** جلسه ۰۵، دیکشنری مهندسی داده، مدرس: نیوشا بقایی، شنبه ۲ آبان ۱۴۰۵، ساعت ۲۰.
 
-**نسخه مجموعه جزوه‌ها:** `v0.4.0` (افزودن جزوه جلسه چهارم).
+**نسخه مجموعه جزوه‌ها:** `v0.5.0` (افزودن جزوه جلسه پنجم).
 
 > لینک‌های PDF پس از بارگذاری فایل‌های متناظر در پوشه `Files` مخزن فعال می‌شوند. فهرست با انتشار جلسات بعدی گسترش می‌یابد.
 
@@ -102,6 +103,12 @@
 
 [مطالعه جزوه جلسه چهارم](sessions/04-network-docker-database.md) · [دریافت PDF جلسه چهارم](Files/Session004.pdf)
 
+## جلسه پنجم در یک نگاه
+
+در جلسه پنجم، **نیوشا بقایی** واژه‌های کلیدی مهندسی داده را به‌صورت مقدماتی و در قالب مثال‌های کسب‌وکاری معرفی می‌کند: چرخه داده، ETL و ELT، CDC، Idempotency، Backfill، Orchestration، Batch و Streaming، معماری‌های Kappa و Lambda، تضمین پیام، Data Warehouse و Lakehouse، مدل‌سازی تحلیلی، مقیاس‌پذیری و Data Governance.
+
+[مطالعه جزوه جلسه پنجم](sessions/05-data-engineering-dictionary.md) · [دریافت PDF جلسه پنجم](Files/Session005.pdf)
+
 ## روش استفاده از جزوه‌ها
 
 ۱. از [جلسه اول](sessions/01-introduction.md) شروع کنید و مباحث را به ترتیب بخوانید.
@@ -126,12 +133,14 @@
 │   ├── 01-introduction.md
 │   ├── 02-data-driven-decisions.md
 │   ├── 03-git-linux-network-fundamentals.md
-│   └── 04-network-docker-database.md
+│   ├── 04-network-docker-database.md
+│   └── 05-data-engineering-dictionary.md
 ├── Files/
 │   ├── Session001.pdf
 │   ├── Session002.pdf
 │   ├── Session003.pdf
-│   └── Session004.pdf
+│   ├── Session004.pdf
+│   └── Session005.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
