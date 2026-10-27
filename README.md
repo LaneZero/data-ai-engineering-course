@@ -2,22 +2,22 @@
 
 <img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="620" />
 
-# جزوه فارسی مهندسی داده و  هوش مصنوعی
+# جزوه فارسی مهندسی داده و مهندسی هوش مصنوعی
 
 **Data Engineering & AI Engineering | Persian Study Notes**
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v0.6.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/06-review-troubleshooting-git-ssh-docker.md)
+[![Notes Version](https://img.shields.io/badge/Notes-v0.7.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/06-review-troubleshooting-git-ssh-docker.md)
 ![Last Updated](https://img.shields.io/badge/Updated-2026--10--27-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-06%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-07%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📄 PDF جلسه ششم**](Files/Session006.pdf)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📔 جلسه هفتم**](sessions/07-sql-part-01.md) · [**📄 PDF جلسه هفتم**](Files/Session007.pdf)
 
 [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۲۷ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.6.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی مخزن: ۲۷ اکتبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.7.0</sub>
 
 </div>
 
@@ -51,10 +51,11 @@
 | ۰۴ | پیش‌نیازهای مهندسی داده (۲): ادامه گیت و شبکه، داکر و اتصال به دیتابیس (احمد کریمی) | ۲۸ مهر ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه چهارم](sessions/04-network-docker-database.md) | [دریافت PDF](Files/Session004.pdf) |
 | ۰۵ | دیکشنری مهندسی داده (نیوشا بقایی) | ۲ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه پنجم](sessions/05-data-engineering-dictionary.md) | [دریافت PDF](Files/Session005.pdf) |
 | ۰۶ | رفع اشکال و جمع‌بندی جلسات گذشته (مصطفی قدیمی) | ۳ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه ششم](sessions/06-review-troubleshooting-git-ssh-docker.md) | [دریافت PDF](Files/Session006.pdf) |
+| ۰۷ | آموزش SQL (قسمت اول): زبان مشترک کار با داده (کوثر اصغری) | ۵ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه هفتم](sessions/07-sql-part-01.md) | [دریافت PDF](Files/Session007.pdf) |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۰۶، رفع اشکال و جمع‌بندی جلسات گذشته، مدرس: مصطفی قدیمی، یکشنبه ۳ آبان ۱۴۰۵، ساعت ۲۰.
+**آخرین جلسه تدوین‌شده:** جلسه ۰۷، آموزش SQL (قسمت اول)، مدرس: کوثر اصغری، سه‌شنبه ۵ آبان ۱۴۰۵، ساعت ۲۰.
 
-**نسخه مجموعه جزوه‌ها:** `v0.6.0` (افزودن جزوه جلسه ششم).
+**نسخه مجموعه جزوه‌ها:** `v0.7.0` (افزودن جزوه جلسه هفتم).
 
 > لینک‌های PDF پس از بارگذاری فایل‌های متناظر در پوشه `Files` مخزن فعال می‌شوند. فهرست با انتشار جلسات بعدی گسترش می‌یابد.
 
@@ -114,8 +115,17 @@
 
 در جلسه ششم، **مصطفی قدیمی** ارتباط پیش‌نیازهای دوره را با یک تمرین عملی مرور می‌کند: دلیل استفاده از سرور و خط فرمان، ساخت ماشین مجازی، اتصال SSH و احراز هویت با کلید عمومی، همکاری در Git و GitHub، بررسی تاریخچه و Stage، دریافت و ارسال تغییرها و حل Conflict. در ادامه، Docker روی سرور نصب می‌شود و تلاش برای اجرای PostgreSQL و برقراری اتصال به دیتابیس همراه با عیب‌یابی شبکه نمایش داده می‌شود.
 
+**محدوده تدریس:** بخش‌هایی از نمایش عملی تحت تأثیر محدودیت شبکه و خطاهای اتصال قرار گرفتند. فرمان‌های کامل و قابل‌تأیید نبودند؛ بنابراین دستورهای بازسازی‌شده در جزوه با برچسب مستقل مشخص شده‌اند.
 
 [مطالعه جزوه جلسه ششم](sessions/06-review-troubleshooting-git-ssh-docker.md) · [دریافت PDF جلسه ششم](Files/Session006.pdf)
+
+## جلسه هفتم در یک نگاه
+
+در جلسه هفتم، **کوثر اصغری** از مسئله نگهداری داده در فایل‌های ساده شروع می‌کند و نشان می‌دهد چرا SQL و DBMS به ابزارهای اصلی مدیریت و تحلیل داده تبدیل شده‌اند. مباحث به‌صورت گام‌به‌گام از جدول، Primary Key و مفهوم NULL تا خانواده‌های دستورهای SQL، ساختار SELECT، فیلترها، توابع تجمیعی، GROUP BY و HAVING پیش می‌روند.
+
+در بخش عملی، اتصال جدول‌های مشتری و سفارش با JOIN بررسی می‌شود و مدرس بر این سؤال تأکید می‌کند که **هر ردیف خروجی دقیقاً نماینده چیست؟** مثال‌های تکمیلی و تصحیح‌های فنی در خود جزوه از مطالب مدرس تفکیک شده‌اند.
+
+[مطالعه جزوه جلسه هفتم](sessions/07-sql-part-01.md) · [دریافت PDF جلسه هفتم](Files/Session007.pdf)
 
 ## روش استفاده از جزوه‌ها
 
@@ -143,14 +153,16 @@
 │   ├── 03-git-linux-network-fundamentals.md
 │   ├── 04-network-docker-database.md
 │   ├── 05-data-engineering-dictionary.md
-│   └── 06-review-troubleshooting-git-ssh-docker.md
+│   ├── 06-review-troubleshooting-git-ssh-docker.md
+│   └── 07-sql-part-01.md
 ├── Files/
 │   ├── Session001.pdf
 │   ├── Session002.pdf
 │   ├── Session003.pdf
 │   ├── Session004.pdf
 │   ├── Session005.pdf
-│   └── Session006.pdf
+│   ├── Session006.pdf
+│   └── Session007.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
