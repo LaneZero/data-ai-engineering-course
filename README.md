@@ -8,16 +8,16 @@
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v0.9.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/09-pandas-from-sql-to-dataframe.md)
-![Last Updated](https://img.shields.io/badge/Updated-2026--11--05-0f766e?style=for-the-badge&logo=github&logoColor=white)
+[![Notes Version](https://img.shields.io/badge/Notes-v1.0.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/10-airflow-workshop.md)
+![Last Updated](https://img.shields.io/badge/Updated-2026--11--08-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-09%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-10%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📔 جلسه هفتم**](sessions/07-sql-part-01.md) · [**📒 جلسه هشتم**](sessions/08-sql-part-02.md) · [**📄 جلسه نهم**](sessions/09-pandas-from-sql-to-dataframe.md) · [**📄 PDF جلسه نهم**](Files/Session009.pdf)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📔 جلسه هفتم**](sessions/07-sql-part-01.md) · [**📒 جلسه هشتم**](sessions/08-sql-part-02.md) · [**📄 جلسه نهم**](sessions/09-pandas-from-sql-to-dataframe.md) · [**📄 جلسه دهم**](sessions/10-airflow-workshop.md) · [**📄 PDF جلسه دهم**](Files/Session010.pdf)
 
 [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی نسخه جزوه‌ها: ۵ نوامبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v0.9.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی نسخه جزوه‌ها: ۸ نوامبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v1.0.0</sub>
 
 </div>
 
@@ -54,10 +54,11 @@
 | ۰۷ | آموزش SQL (قسمت اول): زبان مشترک کار با داده (کوثر اصغری) | ۵ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه هفتم](sessions/07-sql-part-01.md) | [دریافت PDF](Files/Session007.pdf) |
 | ۰۸ | آموزش SQL (قسمت دوم): توابع پنجره‌ای و خطاهای رایج تحلیل داده (کوثر اصغری) | ۱۰ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه هشتم](sessions/08-sql-part-02.md) | [دریافت PDF](Files/Session008.pdf) |
 | ۰۹ | آموزش Pandas؛ از SQL تا دیتافریم (سحر منصوری‌فر) | چهارشنبه ۱۳ آبان ۱۴۰۵، ساعت ۱۹ | [مطالعه جلسه نهم](sessions/09-pandas-from-sql-to-dataframe.md) | [دریافت PDF](Files/Session009.pdf) |
+| ۱۰ | کارگاه Airflow (رضا امینی) | جمعه ۱۵ آبان ۱۴۰۵ | [مطالعه جلسه دهم](sessions/10-airflow-workshop.md) | [دریافت PDF](Files/Session010.pdf) |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۰۹، آموزش Pandas؛ از SQL تا دیتافریم، مدرس: سحر منصوری‌فر، چهارشنبه ۱۳ آبان ۱۴۰۵، ساعت ۱۹.
+**آخرین جلسه تدوین‌شده:** جلسه ۱۰، کارگاه Airflow، مدرس: رضا امینی، جمعه ۱۵ آبان ۱۴۰۵.
 
-**نسخه مجموعه جزوه‌ها:** `v0.9.0` (افزودن جزوه جلسه نهم).
+**نسخه مجموعه جزوه‌ها:** `v1.0.0` (افزودن جزوه جلسه دهم).
 
 > لینک‌های PDF پس از بارگذاری فایل‌های متناظر در پوشه `Files` مخزن فعال می‌شوند. فهرست با انتشار جلسات بعدی گسترش می‌یابد.
 
@@ -147,6 +148,14 @@
 
 [مطالعه جزوه جلسه نهم](sessions/09-pandas-from-sql-to-dataframe.md) · [دریافت PDF جلسه نهم](Files/Session009.pdf)
 
+## جلسه دهم در یک نگاه
+
+در جلسه دهم، **رضا امینی** با یک کارگاه عملی Apache Airflow توضیح می‌دهد که چگونه پایپ‌لاین‌های داده را با DAG و Task تعریف و اجرا کنیم. مباحث از معماری Airflow و وابستگی تسک‌ها آغاز می‌شود و به TaskFlow API، XCom، زمان‌بندی و Catchup، پارامترها، Dynamic Task Mapping، Branching، TaskGroup، Trigger Rule، Connection، Sensor و روش‌های Retry و Cleanup می‌رسد.
+
+**محدوده تدریس:** مثال‌های اصلی در Airflow 2.9 نمایش داده شده‌اند؛ نکات تفاوت نسخه ۳ و کدهای بازسازی‌شده در جزوه با برچسب تکمیل فنی یا مثال اضافی مشخص شده‌اند.
+
+[مطالعه جزوه جلسه دهم](sessions/10-airflow-workshop.md) · [دریافت PDF جلسه دهم](Files/Session010.pdf)
+
 ## روش استفاده از جزوه‌ها
 
 ۱. از [جلسه اول](sessions/01-introduction.md) شروع کنید و مباحث را به ترتیب بخوانید.
@@ -176,7 +185,8 @@
 │   ├── 06-review-troubleshooting-git-ssh-docker.md
 │   ├── 07-sql-part-01.md
 │   ├── 08-sql-part-02.md
-│   └── 09-pandas-from-sql-to-dataframe.md
+│   ├── 09-pandas-from-sql-to-dataframe.md
+│   └── 10-airflow-workshop.md
 ├── Files/
 │   ├── Session001.pdf
 │   ├── Session002.pdf
@@ -186,7 +196,8 @@
 │   ├── Session006.pdf
 │   ├── Session007.pdf
 │   ├── Session008.pdf
-│   └── Session009.pdf
+│   ├── Session009.pdf
+│   └── Session010.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
