@@ -2,22 +2,22 @@
 
 <img src="assets/images/Databurst-Logo-01.jpg" alt="DataBurst | نشان مجموعه جزوه‌های مهندسی داده و هوش مصنوعی" width="620" />
 
-# جزوه فارسی مهندسی داده و هوش مصنوعی
+# جزوه فارسی مهندسی داده و  هوش مصنوعی
 
 **Data Engineering & AI Engineering | Persian Study Notes**
 
 جزوه‌های آموزشی مستقل، مثال‌های کاربردی و منابع تکمیلی دوره رایگان
 
-[![Notes Version](https://img.shields.io/badge/Notes-v1.0.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/10-airflow-workshop.md)
-![Last Updated](https://img.shields.io/badge/Updated-2026--11--08-0f766e?style=for-the-badge&logo=github&logoColor=white)
+[![Notes Version](https://img.shields.io/badge/Notes-v1.1.0-2563eb?style=for-the-badge&logo=readme&logoColor=white)](sessions/11-oltp-olap-storage.md)
+![Last Updated](https://img.shields.io/badge/Updated-2026--11--22-0f766e?style=for-the-badge&logo=github&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Persian-64748b?style=for-the-badge)
-![Sessions](https://img.shields.io/badge/Sessions-10%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
+![Sessions](https://img.shields.io/badge/Sessions-11%20Published-15803d?style=for-the-badge&logo=bookstack&logoColor=white)
 
-[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📔 جلسه هفتم**](sessions/07-sql-part-01.md) · [**📒 جلسه هشتم**](sessions/08-sql-part-02.md) · [**📄 جلسه نهم**](sessions/09-pandas-from-sql-to-dataframe.md) · [**📄 جلسه دهم**](sessions/10-airflow-workshop.md) · [**📄 PDF جلسه دهم**](Files/Session010.pdf)
+[**📖 جلسه اول**](sessions/01-introduction.md) · [**📘 جلسه دوم**](sessions/02-data-driven-decisions.md) · [**📗 جلسه سوم**](sessions/03-git-linux-network-fundamentals.md) · [**📙 جلسه چهارم**](sessions/04-network-docker-database.md) · [**📓 جلسه پنجم**](sessions/05-data-engineering-dictionary.md) · [**📕 جلسه ششم**](sessions/06-review-troubleshooting-git-ssh-docker.md) · [**📔 جلسه هفتم**](sessions/07-sql-part-01.md) · [**📒 جلسه هشتم**](sessions/08-sql-part-02.md) · [**📄 جلسه نهم**](sessions/09-pandas-from-sql-to-dataframe.md) · [**📄 جلسه دهم**](sessions/10-airflow-workshop.md) · [**📄 جلسه یازدهم**](sessions/11-oltp-olap-storage.md) · [**📄 PDF جلسه یازدهم**](Files/Session011.pdf)
 
 [**🌐 وب‌سایت دوره**](https://mostafaghadimi.github.io/data-course/) · [**💻 مخزن اصلی دوره**](https://github.com/mostafaghadimi/data-course)
 
-<sub>مستقل و غیررسمی | آخرین به‌روزرسانی نسخه جزوه‌ها: ۸ نوامبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v1.0.0</sub>
+<sub>مستقل و غیررسمی | آخرین به‌روزرسانی نسخه جزوه‌ها: ۲۲ نوامبر ۲۰۲۶ | نسخه مجموعه جزوه‌ها: v1.1.0</sub>
 
 </div>
 
@@ -55,10 +55,11 @@
 | ۰۸ | آموزش SQL (قسمت دوم): توابع پنجره‌ای و خطاهای رایج تحلیل داده (کوثر اصغری) | ۱۰ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه هشتم](sessions/08-sql-part-02.md) | [دریافت PDF](Files/Session008.pdf) |
 | ۰۹ | آموزش Pandas؛ از SQL تا دیتافریم (سحر منصوری‌فر) | چهارشنبه ۱۳ آبان ۱۴۰۵، ساعت ۱۹ | [مطالعه جلسه نهم](sessions/09-pandas-from-sql-to-dataframe.md) | [دریافت PDF](Files/Session009.pdf) |
 | ۱۰ | کارگاه Airflow (رضا امینی) | جمعه ۱۵ آبان ۱۴۰۵ | [مطالعه جلسه دهم](sessions/10-airflow-workshop.md) | [دریافت PDF](Files/Session010.pdf) |
+| ۱۱ | انواع دیتابیس‌ها: OLTP در برابر OLAP؛ داده چطور ذخیره می‌شود؟ (محمدصادق زاهدی) | دوشنبه ۲۵ آبان ۱۴۰۵، ساعت ۲۰ | [مطالعه جلسه یازدهم](sessions/11-oltp-olap-storage.md) | [دریافت PDF](Files/Session011.pdf) |
 
-**آخرین جلسه تدوین‌شده:** جلسه ۱۰، کارگاه Airflow، مدرس: رضا امینی، جمعه ۱۵ آبان ۱۴۰۵.
+**آخرین جلسه تدوین‌شده:** جلسه ۱۱، انواع دیتابیس‌ها: OLTP در برابر OLAP، مدرس: محمدصادق زاهدی، دوشنبه ۲۵ آبان ۱۴۰۵، ساعت ۲۰.
 
-**نسخه مجموعه جزوه‌ها:** `v1.0.0` (افزودن جزوه جلسه دهم).
+**نسخه مجموعه جزوه‌ها:** `v1.1.0` (افزودن جزوه جلسه یازدهم).
 
 > لینک‌های PDF پس از بارگذاری فایل‌های متناظر در پوشه `Files` مخزن فعال می‌شوند. فهرست با انتشار جلسات بعدی گسترش می‌یابد.
 
@@ -156,6 +157,14 @@
 
 [مطالعه جزوه جلسه دهم](sessions/10-airflow-workshop.md) · [دریافت PDF جلسه دهم](Files/Session010.pdf)
 
+## جلسه یازدهم در یک نگاه
+
+در جلسه یازدهم، **محمدصادق زاهدی** درباره لایه ذخیره‌سازی در مهندسی داده و تفاوت بارکاری **OLTP** و **OLAP** صحبت می‌کند. بحث از ذخیره‌سازی سطری و ستونی آغاز می‌شود و به مزیت‌های Column Pruning، Compression و Data Skipping می‌رسد. سپس ساختار فرمت‌های JSON، Avro، Protobuf و Parquet و مبانی B-Tree، LSM Tree و خانواده MergeTree در ClickHouse بررسی می‌شوند.
+
+**محدوده تدریس:** معماری Data Warehouse و Data Lake برای جلسه بعد مطرح شده و در این جلسه جزئیات آن ارائه نشده است. اصلاحات فنی مربوط به RocksDB، Sparse Index و ReplacingMergeTree در جزوه با برچسب جداگانه مشخص‌اند.
+
+[مطالعه جزوه جلسه یازدهم](sessions/11-oltp-olap-storage.md) · [دریافت PDF جلسه یازدهم](Files/Session011.pdf)
+
 ## روش استفاده از جزوه‌ها
 
 ۱. از [جلسه اول](sessions/01-introduction.md) شروع کنید و مباحث را به ترتیب بخوانید.
@@ -186,7 +195,8 @@
 │   ├── 07-sql-part-01.md
 │   ├── 08-sql-part-02.md
 │   ├── 09-pandas-from-sql-to-dataframe.md
-│   └── 10-airflow-workshop.md
+│   ├── 10-airflow-workshop.md
+│   └── 11-oltp-olap-storage.md
 ├── Files/
 │   ├── Session001.pdf
 │   ├── Session002.pdf
@@ -197,7 +207,8 @@
 │   ├── Session007.pdf
 │   ├── Session008.pdf
 │   ├── Session009.pdf
-│   └── Session010.pdf
+│   ├── Session010.pdf
+│   └── Session011.pdf
 └── assets/
     └── images/
         └── Databurst-Logo-01.jpg
